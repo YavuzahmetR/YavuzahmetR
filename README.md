@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yavuzahmetr&label=Profile%20views&color=0e75b6&style=flat" alt="yavuzahmetr" /> </p>
 
-- 🌱 I’m currently learning **Backend - Frontend Development,Git Versions**
+- 🌱 I’m currently learning **Backend - Frontend Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/YavuzahmetR?tab=repositories](https://github.com/YavuzahmetR?tab=repositories)
 
