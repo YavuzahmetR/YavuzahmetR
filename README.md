@@ -4,7 +4,7 @@
 
 
 
-- 🌱 I’m currently learning **Backend - Frontend Development,Git Versions**
+- 🌱 I’m currently learning **Backend Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/YavuzahmetR?tab=repositories](https://github.com/YavuzahmetR?tab=repositories)
 
