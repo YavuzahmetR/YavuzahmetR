@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yavuz Işık</h1>
-<h3 align="center">I'm a Computer Engineering student</h3>
 
 
-
-
-- 🌱 I’m currently learning **Backend - Frontend Development**
+- 🌱 I’m currently learning **.NET Backend Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/YavuzahmetR?tab=repositories](https://github.com/YavuzahmetR?tab=repositories)
 
