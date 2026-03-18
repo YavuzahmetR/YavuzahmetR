@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yavuz Işık</h1>
 
-
-- 🌱 I’m currently learning **.NET Backend Development**
-
 - 👨‍💻 All of my projects are available at [https://github.com/YavuzahmetR?tab=repositories](https://github.com/YavuzahmetR?tab=repositories)
 
 - 📫 How to reach me **ayavuzisik@gmail.com**
